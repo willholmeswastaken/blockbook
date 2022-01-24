@@ -5,10 +5,18 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "generatedb": "npx prisma generate"
   },
   "dependencies": {
+    "@3rdweb/hooks": "^1.8.0",
+    "@3rdweb/react": "^1.8.1",
+    "@prisma/client": "^3.8.1",
+    "@types/jsonwebtoken": "^8.5.8",
+    "ethers": "^5.5.3",
+    "jsonwebtoken": "^8.5.1",
     "next": "12.0.8",
+    "prisma": "^3.8.1",
     "react": "17.0.2",
     "react-dom": "17.0.2"
   },
