@@ -2,6 +2,7 @@
 A social network based on blockchain authentication.
 
 <h2> Todo: </h2>
+
 - Cleanup prisma initiation and usage.
 - Cleanup profile implementation, look at using some custom react hooks.
 - Persist token across session.
