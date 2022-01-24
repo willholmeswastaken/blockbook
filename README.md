@@ -6,6 +6,7 @@ A social network based on blockchain authentication.
 - Cleanup prisma initiation and usage.
 - Cleanup profile implementation, look at using some custom react hooks.
 - Persist token across session.
+- Create the sign out flow.
 - Create the user profile page
 - Create the search page
 - Create the edit user profile page
